@@ -1,0 +1,9 @@
+/***
+   user paste a url link typical of the traditional youtube download link
+   but instead directs to embedded youtube page, waiting for whisper to
+   process selected sub options to watch
+
+   will have 1) field for url link, 2) options to choose karaoke style,
+   langs alignment, original vid lang + secondary langs
+
+***/
