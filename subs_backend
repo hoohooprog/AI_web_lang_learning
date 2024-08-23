@@ -1,1 +1,9 @@
+/***
+    using whisper, we translate audio to lyrics
 
+    need to sync video and subs timestamp, whether it's
+    from back or on user's browser using js.
+
+    would also cache and store the subs for chatbot.
+
+***/
