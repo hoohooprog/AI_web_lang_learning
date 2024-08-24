@@ -6,4 +6,6 @@
 
     would also cache and store the subs for chatbot.
 
+    would require large enough ec2 to host the model
+
 ***/
